@@ -5,7 +5,7 @@ site_author: Unit4 People Platform
 extra_css: [css/extra.css]
 theme_dir: 'unit4_theme'
 repo_url: https://github.com/JohnA-Oslo/DocExternal
-edit_uri: edit/contributor/docs
+edit_uri: /docs
 extra:
     pplink: https://docs-external.u4pp.com/
 nav:
