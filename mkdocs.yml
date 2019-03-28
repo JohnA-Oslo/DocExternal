@@ -1,0 +1,37 @@
+site_name: Wanda
+site_url: https://wanda-implementation-guide.u4pp.com/
+site_description: Unit4 Wanda implementation
+site_author: Unit4 People Platform
+extra_css: [css/extra.css]
+theme_dir: 'unit4_theme'
+extra:
+    pplink: https://docs-external.u4pp.com/
+nav:
+- Introduction:
+    - 'Overview': 'index.md'
+    - 'Ordering and registration': 'order-registration.md'
+    - 'Digital Assistant skills': 'digitalassistants.md'
+- Functional setup:
+    - 'Access setup':
+        - 'Access setup overview': 'access.md'
+        - 'Access checklist': 'access-checklist.md'
+    - 'Absence assistant': 'absence-assistant.md'
+    - 'Balances assistant': 'balances-assistant.md'
+    - 'Expenses assistant': 'expenses-assistant.md'
+    - 'Payslip assistant': 'payslip-assistant.md'
+    - 'Purchasing assistant': 'purchasingassistant.md'
+    - 'Tasks assistant': 'tasks-assistant.md'
+    - 'Time assistant': 'timeassistant.md'
+    - 'Travel request assistant': 'travel-request-assistant.md'
+    - 'Custom company policy assistant': 'policybot.md'
+       
+- Technical setup:
+    - 'Technical setup overview' : 'technical-setup-overview.md'
+    - 'U4IDS setup' : 'ubw-ids-configuration.md'
+    - 'Notifications setup': 'notifications-setup.md'
+    - 'End user setup': 'connect-to.md' 
+- Diagnostics:
+    - 'User diagnostics': 'user-diagnostics.md'
+    - 'Unit4 Business World diagnostics': 'u4bw-diagnostics.md'
+
+
