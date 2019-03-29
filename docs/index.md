@@ -35,9 +35,9 @@ The following Unit4 Platform services are required:
 
 ## Wanda implementation steps
 
-The required setup for Unit4 Business World to use Wanda consists of:
+The required setup for Unit4 Business World to use Wanda involves:
 
-* Ordering and registration of the Unit4 Wanda digital assistant with the Unit4 Cloud for the customer's Business World installation. Ordering of Wanda and the selected [digital assistant skills](digitalassistants.md) is done by the customer via their Unit account manager, and Wanda registration and setup in the Unit Cloud is done by Unit4 Cloud ops. See [Unit4 Wanda ordering and registration](order-registration.md) for details.
+* Ordering and registering the Unit4 Wanda digital assistant with the Unit4 Cloud for the customer's Business World installation. Ordering of Wanda and the selected [digital assistant skills](digitalassistants.md) is done by the customer via their Unit account manager, and Wanda registration and setup in the Unit Cloud is done by Unit4 Cloud ops. See [Unit4 Wanda ordering and registration](order-registration.md) for details.
 * Registration / setup of the Unit4 People Platform cloud services required by Wanda, such as Unit4 Identity services (U4IDS).
     * For Business World installations running as a Unit4 cloud service this entire setup including the required Business World setup is done by the Unit4 Cloud Operations team.
     * For Business World installations running on-premise, the required Business World technical setup to operate with U4IDS is done by implementation consultants and the customer using the Business World Management Console. The [Wanda IDS setup](ubw-ids-configuration.md) outlines this procedure.
