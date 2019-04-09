@@ -1,7 +1,7 @@
 # Access setup overview
 
 
-Wanda relies on users having access to a set of APIs and objects exposed on the customer's Unit4 Business World installation. This section gives an overview of the access setup required for Wanda.
+Wanda relies on users having access to a set of APIs and objects exposed on the customer's Unit4 Business World installation. This topic gives an overview of the access setup required for Wanda.
 
 To get a overview of the required access setup for Wanda, see the [access checklist](access-checklist.md). In addition all assistant specific implementation guides include a description of the required access configuration.
 
